@@ -29,7 +29,7 @@ const Menu = () => {
             </span>
 
             <input
-              className="w-32 pl-10 pr-4 h-10 rounded-full form-input bg-gray-100 sm:w-64 focus:border-indigo-600"
+              className="w-32 pl-10 pr-4 h-10 rounded-full text-black form-input bg-gray-100 sm:w-64 focus:border-indigo-600"
               type="text"
               placeholder="Search...."
             />
@@ -109,7 +109,7 @@ const Menu = () => {
                   </span>
 
                   <input
-                    className="w-32 pl-10 pr-4 h-10 rounded-full form-input sm:w-64 focus:border-indigo-600"
+                    className="w-32 pl-10 pr-4 h-10 rounded-full text-black form-input bg-gray-100 sm:w-64 focus:border-indigo-600"
                     type="text"
                     placeholder="Search...."
                   />

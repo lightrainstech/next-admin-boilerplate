@@ -8,7 +8,7 @@ const Masthead = () => {
         <p className="text-5xl font-medium text-black">
           Good afternoon Ryan, you have
         </p>
-        <p className="text-green-400 text-4xl">$24,920.56</p>
+        <p className="text-teal-500 text-4xl">$24,920.56</p>
         <p className="text-black font-medium">
           Available funds to invest: $435.00{' '}
           <span className="text-yellow-500 underline cursor-pointer">

@@ -14,16 +14,16 @@ const Tables = () => {
         <p className="text-xl text-gray-500 mb-2">+$87.01</p>
       </div>
       <div className="divide-y-2 divide-gray-200 overflow-x-auto w-full">
-        <div className="py-3 md:flex md:flex-row flex-col  justify-between text-gray-500 font-semibold">
+        <div className="py-3 flex md:flex-row flex-col justify-between text-sm text-gray-500 font-semibold">
           <span className="flex items-center gap-2">
             <img
               className="h-10 w-10 rounded-full"
               src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
               alt=""
             />
-            <p className="px-4  flex-col text-black">
+            <span className="px-4 flex-col text-black">
               Spotify <p className="text-gray-500">#Music</p>
-            </p>
+            </span>
           </span>
           <p className="md:text-base text-gray-800 flex items-center gap-2">
             -$9.99
@@ -42,16 +42,16 @@ const Tables = () => {
             </svg>
           </p>
         </div>
-        <div className="py-3 md:flex md:flex-row flex-col justify-between text-sm text-gray-500 font-semibold">
+        <div className="py-3 flex md:flex-row flex-col justify-between text-sm text-gray-500 font-semibold">
           <span className="flex items-center gap-2">
             <img
               className="h-10 w-10 rounded-full"
               src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
               alt=""
             />
-            <p className="px-4 flex-col text-black">
+            <span className="px-4 flex-col text-black">
               Spotify <p className="text-gray-500">#Music</p>
-            </p>
+            </span>
           </span>
           <p className="md:text-base text-gray-800 flex items-center gap-2">
             -$9.99
@@ -70,16 +70,16 @@ const Tables = () => {
             </svg>
           </p>
         </div>
-        <div className="py-3 md:flex md:flex-row flex-col justify-between text-sm text-gray-500 font-semibold">
+        <div className="py-3 flex md:flex-row flex-col justify-between text-sm text-gray-500 font-semibold">
           <span className="flex items-center gap-2">
             <img
               className="h-10 w-10 rounded-full"
               src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
               alt=""
             />
-            <p className="px-4 flex-col text-black">
+            <span className="px-4 flex-col text-black">
               Spotify <p className="text-gray-500">#Music</p>
-            </p>
+            </span>
           </span>
           <p className="md:text-base text-gray-800 flex items-center gap-2">
             -$9.99
@@ -98,16 +98,16 @@ const Tables = () => {
             </svg>
           </p>
         </div>
-        <div className="py-3 md:flex md:flex-row flex-col justify-between text-sm text-gray-500 font-semibold">
+        <div className="py-3 flex md:flex-row flex-col justify-between text-sm text-gray-500 font-semibold">
           <span className="flex items-center gap-2">
             <img
               className="h-10 w-10 rounded-full"
               src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
               alt=""
             />
-            <p className="px-4 flex-col text-black">
+            <span className="px-4 flex-col text-black">
               Spotify <p className="text-gray-500">#Music</p>
-            </p>
+            </span>
           </span>
           <p className="md:text-base text-gray-800 flex items-center gap-2">
             -$9.99
