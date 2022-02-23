@@ -23,8 +23,8 @@ const LoginForm = () => {
   }
 
   return (
-    <div className="flex flex-row items-center justify-center mt-32 md:pl-24 pl-0 ">
-      <div className="md:w-full w-5/6 max-w-sm px-4 py-6  bg-white rounded-md shadow-lg">
+    <div className="flex flex-row items-center justify-center mt-40">
+      <div className="md:w-full max-w-sm px-4 py-6  bg-white rounded-lg shadow-lg">
         <div className="flex items-center justify-center">
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -102,7 +102,7 @@ const LoginForm = () => {
               overrides={{
                 BaseButton: {
                   style: () => ({
-                    backgroundColor: '#0000FF'
+                    backgroundColor: '#fdba74'
                   })
                 }
               }}>
